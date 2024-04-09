@@ -23,5 +23,5 @@
 - Rahulps1000
 - Tech VJ
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Greymattersbot/public-forward-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/Ranjan098/VJ-Public-Forward-Bott)
 
