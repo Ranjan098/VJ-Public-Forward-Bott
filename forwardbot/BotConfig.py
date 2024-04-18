@@ -1,4 +1,4 @@
-from os import environ
+pfrom os import environ
 class Config(object):
     API_ID = environ.get("API_ID", "12606917")
     API_HASH = environ.get("API_HASH", "f25113b8c17dca6fa7abda53a86bd4f7")
